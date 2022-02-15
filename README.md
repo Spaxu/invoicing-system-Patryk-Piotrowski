@@ -1,5 +1,5 @@
 # invoicing-system-Patryk-Piotrowski
 
-* My firstt project
+* My first project
 
 ## invoicing system
